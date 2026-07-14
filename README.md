@@ -1,27 +1,16 @@
-![welcome](https://s2.loli.net/2024/02/24/jq2MWiH8U3vmbIL.png)
+# Hi 👋, I'm kjasn
 
-<!--   my-ticker -->    
-<!-- generator my own ticker by clicking the following link -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&width=435&lines=I+love+open+source+community;I+dream+to+be+a+comic+artist)](https://git.io/typing-svg)
+- I love open source community.
 
+- I'm currently learning **AI and Rust**.
 
+- I dream to be an amateur illustrator or maybe an comic artist one day.
 
-### 📈 GitHub Activity Graph:
+- Feel free to reach out to me at [X](https://x.com/tbenlio) or [Mail](mailto:iz.kjasn@icloud.com).
 
-![kjasn's github stats](https://github-readme-stats.vercel.app/api?username=kjasn&show_icons=true&theme=radical&include_all_commits=true) 
+<p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=kjasn&show_icons=true&locale=en" alt="kjasn" height="180"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kjasn&show_icons=true&locale=en&layout=compact" alt="kjasn" />
+</p>
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kjasn&theme=radical&layout=compact) 
-
-
-
-<!-- **📫 How to Reach me:** -->
-<!-- <p align="left"> -->
-
-<!-- </p> -->
-
-
-
-
-<!-- ## Star History -->
-
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=kjasn/kjasn&type=Date)](https://star-history.com/#kjasn/kjasn&Date) -->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjasn&" alt="kjasn" /></p>-->
