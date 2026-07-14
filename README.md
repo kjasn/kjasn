@@ -10,7 +10,8 @@
 
 <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=kjasn&show_icons=true&locale=en" alt="kjasn" height="180"/>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kjasn&show_icons=true&locale=en&layout=compact" alt="kjasn" />
+    <!--<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kjasn&show_icons=true&locale=en&layout=compact" alt="kjasn" />-->
+    ![Weekly Development Stats](https://raw.githubusercontent.com/kjasn/waka-stats/main/wakatime-stats.svg)
 </p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjasn&" alt="kjasn" /></p>-->
