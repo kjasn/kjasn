@@ -9,9 +9,9 @@
 - Feel free to reach out to me at [X](https://x.com/tbenlio) or [Mail](mailto:iz.kjasn@icloud.com).
 
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=kjasn&show_icons=true&locale=en" alt="kjasn" height="180"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=kjasn&show_icons=true&locale=en" alt="kjasn" height="220"/>
     <!--<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kjasn&show_icons=true&locale=en&layout=compact" alt="kjasn" />-->
-    ![Weekly Development Stats](https://raw.githubusercontent.com/kjasn/waka-stats/main/wakatime-stats.svg)
+    <img src="https://raw.githubusercontent.com/kjasn/waka-stats/main/wakatime-stats.svg" alt="Weekly Development Stats" height="220"/>
 </p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjasn&" alt="kjasn" /></p>-->
